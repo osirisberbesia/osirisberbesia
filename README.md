@@ -2,7 +2,11 @@
 
 ### 🌍 Ubicación: Costa Rica
 
-Soy una apasionada analista de datos con experiencia en diversos lenguajes de programación y tecnologías. Aquí comparto mis proyectos y colaboraciones. ¡Bienvenido(a) a mi perfil!
+![Profile Views](https://komarev.com/ghpvc/?username=osirisberbesia&color=FF00FF&style=flat)
+
+Soy una apasionada analista de datos con experiencia en diversos lenguajes de programación y tecnologías. Aquí comparto mis proyectos y colaboraciones. 
+
+¡Bienvenido(a) a mi perfil!
 
 ## 📊 Estadísticas de GitHub
 
@@ -16,13 +20,9 @@ Soy una apasionada analista de datos con experiencia en diversos lenguajes de pr
 
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=osirisberbesia&theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=osirisberbesia&theme=radical&bg_color=000000&title_color=FF00FF&line=FFFF00&point=00FFFF)
+[![wakatime](https://wakatime.com/badge/user/021ecccf-3437-498b-b624-e6bf233003dc.svg)](https://wakatime.com/@021ecccf-3437-498b-b624-e6bf233003dc)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=osirisberbesia.osirisberbesia&left_color=green&right_color=red)
-              
-![Metrics](https://metrics.lecoq.io/osirisberbesia?theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
 
-![Profile Views](https://komarev.com/ghpvc/?username=osirisberbesia&color=FF00FF&style=flat)
 
 
 
