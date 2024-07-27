@@ -41,7 +41,7 @@ Resultado del curso de HTML y CSS de Bluu. Página web responsive estilo blog.
 - Bootstrap
 
 ## 📫 Contáctame
-- 📧 Email: [osiris@example.com](mailto:osiris@example.com)
+- 📧 Email: [osirisberbesia@icloud.com](mailto:osirisberbesia@icloud.com)
 - 🐦 Twitter: [@osiris_berbesia](https://twitter.com/osiris_berbesia)
 - 💼 LinkedIn: [Osiris Berbesia](https://linkedin.com/in/osirisberbesia)
 
