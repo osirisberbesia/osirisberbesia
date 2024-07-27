@@ -18,7 +18,7 @@ Soy una apasionada analista de datos con experiencia en diversos lenguajes de pr
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=osirisberbesia&theme=radical&background=000000&title=FF00FF&text=00FFFF&icon=FFFF00)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=osirisberbesia&theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=@021ecccf-3437-498b-b624-e6bf233003dc&theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
 
 [![wakatime](https://wakatime.com/badge/user/021ecccf-3437-498b-b624-e6bf233003dc.svg)](https://wakatime.com/@021ecccf-3437-498b-b624-e6bf233003dc)
 
