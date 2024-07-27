@@ -18,13 +18,13 @@ Soy una apasionada analista de datos con experiencia en diversos lenguajes de pr
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=osirisberbesia&theme=radical&bg_color=000000&title_color=FF00FF&line=FFFF00&point=00FFFF)
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=osirisberbesia.osirisberbesia)
-
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=osirisberbesia.osirisberbesia&left_color=green&right_color=red)
+              
 ![Metrics](https://metrics.lecoq.io/osirisberbesia?theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=osirisberbesia&color=FF00FF&style=flat)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
+
 
 ## 🚀 Proyectos Destacados
 
