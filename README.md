@@ -1,12 +1,31 @@
 # 👋 ¡Hola, soy Osiris Berbesia!
 
+
+
+## ¡Bienvenido(a) a mi perfil!
+
 ### 🌍 Ubicación: Costa Rica
+### 💼 Disponibilidad Inmediata: Si
+
+
+
+* Fiebre por los datos 😜
+
+* Complice de DISTINC y del WHERE 🤝
+
+* No le tengo miedo a los nulls ni a los duplicados
+
+* Amiga de ChatGPT
+
+
+
+>
+> "La mente es como un paracaídas, solo funciona si se abre."
+> 
+> Albert Einstein
 
 ![Profile Views](https://komarev.com/ghpvc/?username=osirisberbesia&color=FF00FF&style=flat)
 
-Soy una apasionada analista de datos con experiencia en diversos lenguajes de programación y tecnologías. Aquí comparto mis proyectos y colaboraciones. 
-
-¡Bienvenido(a) a mi perfil!
 
 ## 📊 Estadísticas de GitHub
 
@@ -23,7 +42,38 @@ Soy una apasionada analista de datos con experiencia en diversos lenguajes de pr
 [![wakatime](https://wakatime.com/badge/user/021ecccf-3437-498b-b624-e6bf233003dc.svg)](https://wakatime.com/@021ecccf-3437-498b-b624-e6bf233003dc)
 
 
-## 🚀 Proyectos Destacados
+Sin más preámbulos:
+
+
+# Mis proyectos y colaboraciones. 
+
+
+
+## 🚀 Proyectos Destacados en Análisis de datos
+
+### [Osiris-Laboratoria-Segmentacion-P1](https://github.com/osirisberbesia/Osiris-Laboratoria-Segmentacion-P1)
+Segmentación de clientes y análisis de datos para la recomendación de estrategias enfocadas en la fidelización del cliente.
+
+### [Laboratoria-Proyecto2-Hipotesis](https://github.com/osirisberbesia/Laboratoria-Proyecto2-Hipotesis)
+Análisis de datos enfocado en estudiar las características que influyen en el éxito de las canciones en plataformas de streaming como Spotify, Deezer y Apple Music.
+
+### [laboratoria-riesgo-relativo](https://github.com/osirisberbesia/laboratoria-riesgo-relativo)
+Proyecto para automatizar el análisis de crédito en el banco "Super Caja", mejorando la eficiencia y rapidez en la evaluación de solicitudes de préstamo.
+
+## 💻 Lenguajes, Tecnologías y Programas Utilizados
+- Python
+  - Pandas  
+  - NumPy
+  - Matplotlib
+  - Seaborn
+  - Plotly
+  - Scikit-Learn
+- Google Sheets
+- Power BI
+- Looker Studio
+- Google Colab
+
+## 🚀 Proyectos Destacados en otras areas
 
 ### [Aplicación Todo](https://github.com/osirisberbesia/app_todo_basic)
 Aplicación con HTML, Bootstrap y JavaScript para la creación y gestión de lista de tareas.
@@ -44,4 +94,4 @@ Resultado del curso de HTML y CSS de Bluu. Página web responsive estilo blog.
 
 ---
 
-¡Gracias por visitar mi perfil! 😊
+¡Gracias por visitar mi perfil! 😊 👍
