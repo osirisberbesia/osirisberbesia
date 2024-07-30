@@ -89,7 +89,7 @@ Resultado del curso de HTML y CSS de Bluu. Página web responsive estilo blog.
 
 ## 📫 Contáctame
 - 📧 Email: [osirisberbesia@icloud.com](mailto:osirisberbesia@icloud.com)
-- 🐦 Twitter: [@osiris_berbesia](https://twitter.com/osiris_berbesia)
+- 🐦 Twitter: [@osiris_berbesia](https://twitter.com/osirisberbesia)
 - 💼 LinkedIn: [Osiris Berbesia](https://linkedin.com/in/osirisberbesia)
 
 ---
