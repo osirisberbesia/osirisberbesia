@@ -11,7 +11,7 @@
 
 * Fiebre por los datos 😜
 
-* Complice de DISTINC y del WHERE 🤝
+* Complice de DISTINCT y del WHERE 🤝
 
 * No le tengo miedo a los nulls ni a los duplicados
 
