@@ -15,7 +15,9 @@
 
 * No le tengo miedo a los nulls ni a los duplicados
 
-* Amiga de ChatGPT
+* Amiga de ChatGPT - Siempre que sea permitido, a modo referencia y no como única opción -
+
+* Que viva el pensamiento crítico!
 
 
 
