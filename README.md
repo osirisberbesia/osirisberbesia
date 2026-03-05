@@ -37,9 +37,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osirisberbesia&theme=radical&background=000000&border=FF00FF&stroke=00FFFF&fire=FFFF00&ring=FFFF00)
 
-![GitHub Trophies](https://github-profile-trophy.vercel-mu.app/?username=osirisberbesia&theme=radical&background=000000&title=FF00FF&text=00FFFF&icon=FFFF00)
+![GitHub Trophies](https://github-profile-trophy-mu.vercel.app/?username=osirisberbesia&theme=radical&background=000000&title=FF00FF&text=00FFFF&icon=FFFF00)
 
-![Github Wakatime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime/?username=021ecccf-3437-498b-b624-e6bf233003dc&layout=compact&theme=default&link=https://www.github.com/osirisberbesia/)
+![Github Wakatime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime/?username=osirisberbesia&layout=compact&theme=radical&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00&bg_color=000000)
 
 [![wakatime](https://wakatime.com/badge/user/021ecccf-3437-498b-b624-e6bf233003dc.svg)](https://wakatime.com/@021ecccf-3437-498b-b624-e6bf233003dc)
 
