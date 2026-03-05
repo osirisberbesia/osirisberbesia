@@ -37,9 +37,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osirisberbesia&theme=radical&background=000000&border=FF00FF&stroke=00FFFF&fire=FFFF00&ring=FFFF00)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=osirisberbesia&theme=radical&background=000000&title=FF00FF&text=00FFFF&icon=FFFF00)
+![GitHub Trophies](https://github-profile-trophy.vercel-mu.app/?username=osirisberbesia&theme=radical&background=000000&title=FF00FF&text=00FFFF&icon=FFFF00)
 
-![Github Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=021ecccf-3437-498b-b624-e6bf233003dc&layout=compact&theme=default&link=https://www.github.com/osirisberbesia/)
+![Github Wakatime Stats](https://github-readme-stats-fast.vercel.app/api/wakatime/?username=021ecccf-3437-498b-b624-e6bf233003dc&layout=compact&theme=default&link=https://www.github.com/osirisberbesia/)
 
 [![wakatime](https://wakatime.com/badge/user/021ecccf-3437-498b-b624-e6bf233003dc.svg)](https://wakatime.com/@021ecccf-3437-498b-b624-e6bf233003dc)
 
@@ -90,8 +90,7 @@ Resultado del curso de HTML y CSS de Bluu. Página web responsive estilo blog.
 - Bootstrap
 
 ## 📫 Contáctame
-- 📧 Email: [osirisberbesia@icloud.com](mailto:osirisberbesia@icloud.com)
-- 🐦 Twitter: [@osiris_berbesia](https://twitter.com/osirisberbesia)
+- 📧 Email: [osirisberbesia@gmail.com](mailto:osirisberbesia@gmail.com)
 - 💼 LinkedIn: [Osiris Berbesia](https://linkedin.com/in/osirisberbesia)
 
 ---
