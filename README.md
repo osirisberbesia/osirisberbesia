@@ -27,6 +27,7 @@
 > Albert Einstein
 
 ![Profile Views](https://komarev.com/ghpvc/?username=osirisberbesia&color=FF00FF&style=flat)
+[![wakatime](https://wakatime.com/badge/user/osirisberbesia.svg)](https://wakatime.com/@osirisberbesia)
 
 
 ## 📊 Estadísticas de GitHub
