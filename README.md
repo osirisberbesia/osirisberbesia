@@ -4,7 +4,7 @@
 
 ## ¡Bienvenido(a) a mi perfil!
 
-### 🌍 Ubicación: Costa Rica
+### 🌍 Ubicación: Venezuela
 ### 💼 Disponibilidad Inmediata: Si
 
 
@@ -31,9 +31,9 @@
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osirisberbesia&theme=radical&show_icons=true&bg_color=000000&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=osirisberbesia&theme=radical&show_icons=true&bg_color=000000&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osirisberbesia&theme=radical&layout=compact&bg_color=000000&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=osirisberbesia&theme=radical&layout=compact&bg_color=000000&title_color=FF00FF&text_color=00FFFF&icon_color=FFFF00)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=osirisberbesia&theme=radical&background=000000&border=FF00FF&stroke=00FFFF&fire=FFFF00&ring=FFFF00)
 
